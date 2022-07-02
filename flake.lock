@@ -63,11 +63,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656283747,
-        "narHash": "sha256-+zO/ve8N3+MPi0hdL6LWhUykuEK9Bs0ao4LXm6s9ykc=",
+        "lastModified": 1656301807,
+        "narHash": "sha256-kuSpEHmmdYCHqeOEY8NHiWuiFKRYKpWaHjjhbIa91h4=",
         "owner": "nim-nix-pkgs",
         "repo": "ikeahomesmart",
-        "rev": "0ace210695a04769dbbc847cc8681c2edc7d19b1",
+        "rev": "6a3644983fb33b56a8de53025658681ebc5013fe",
         "type": "github"
       },
       "original": {
