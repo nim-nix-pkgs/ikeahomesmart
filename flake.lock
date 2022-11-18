@@ -14,11 +14,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334421,
-        "narHash": "sha256-49qpHCMWtE8Jsaaq/siX5bPPQAQhs1+IxEcqom5Te8g=",
+        "lastModified": 1668748703,
+        "narHash": "sha256-3781aD8EFwODNnL0rqQoQd3aOMAIl+joMJ59Ust5M20=",
         "owner": "nim-nix-pkgs",
         "repo": "coap",
-        "rev": "72c4a5030ca3e5c988daa0dfc94ef77e4f403bad",
+        "rev": "b4ba27e31b1078c3434453a67120eeeeaa25fb0d",
         "type": "github"
       },
       "original": {
@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667335242,
-        "narHash": "sha256-758bhp0UkuhBOgKnloaav5r7sS8ZP8byaSJr4LApg48=",
+        "lastModified": 1668749707,
+        "narHash": "sha256-M3XVZn30w/GWeTQseoPH/d4VOmFUsphUiwEIb/oV2ls=",
         "owner": "nim-nix-pkgs",
         "repo": "ikeahomesmart",
-        "rev": "d1a37ff29057fe479aa0f9ba3a1cd9369cab5f48",
+        "rev": "cf7feba90e5c48c4194bf5c00638bd2a8e1f0ec3",
         "type": "github"
       },
       "original": {
